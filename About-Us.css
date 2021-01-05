@@ -124,7 +124,7 @@
 
 .u-section-2 .u-line-1 {
   height: 298px;
-  transform-origin: center top;
+  transform-origin: center top 0px;
   width: 16px;
   margin: 0 auto;
 }
@@ -706,7 +706,11 @@
     margin-top: 7px;
     margin-bottom: 20px;
   }
-}.u-section-5 .u-sheet-1 {
+}.u-section-5 {
+  background-image: none;
+}
+
+.u-section-5 .u-sheet-1 {
   min-height: 855px;
 }
 
@@ -714,14 +718,14 @@
   font-size: 2.25rem;
   font-weight: normal;
   font-family: Georgia, serif;
-  margin: 18px 0 0;
+  margin: 20px 0 0;
 }
 
 .u-section-5 .u-group-1 {
   width: 380px;
   min-height: 636px;
   background-image: none;
-  margin: 33px auto 0 0;
+  margin: 31px auto 0 0;
 }
 
 .u-section-5 .u-container-layout-1 {
@@ -731,12 +735,13 @@
 .u-section-5 .u-icon-1 {
   height: 64px;
   width: 64px;
-  margin: 87px auto 0 22px;
+  background-image: none;
+  margin: 89px auto 0 0;
 }
 
 .u-section-5 .u-text-2 {
   font-weight: 700;
-  margin: 22px 66px 0 0;
+  margin: 20px 66px 0 0;
 }
 
 .u-section-5 .u-text-3 {
@@ -757,7 +762,7 @@
   grid-template-columns: calc(((100% - 1140px) / 2) + 559px) calc(((100% - 1140px) / 2) + 559px);
   width: 740px;
   grid-gap: 22px 22px;
-  margin: -636px 0 60px auto;
+  margin: -634px 0 60px auto;
 }
 
 .u-section-5 .u-list-item-1 {
@@ -771,6 +776,7 @@
 .u-section-5 .u-icon-2 {
   height: 64px;
   width: 64px;
+  background-image: none;
   margin: 0 auto 0 0;
 }
 
@@ -790,6 +796,7 @@
 .u-section-5 .u-icon-3 {
   height: 64px;
   width: 64px;
+  background-image: none;
   margin: 0 auto 0 0;
 }
 
@@ -809,6 +816,7 @@
 .u-section-5 .u-icon-4 {
   height: 64px;
   width: 64px;
+  background-image: none;
   margin: 0 auto 0 0;
 }
 
@@ -828,6 +836,7 @@
 .u-section-5 .u-icon-5 {
   height: 64px;
   width: 64px;
+  background-image: none;
   margin: 0 auto 0 0;
 }
 
@@ -843,10 +852,6 @@
 @media (max-width: 1199px) {
   .u-section-5 .u-sheet-1 {
     min-height: 798px;
-  }
-
-  .u-section-5 .u-text-1 {
-    margin-top: 20px;
   }
 
   .u-section-5 .u-group-1 {
@@ -886,7 +891,7 @@
 
   .u-section-5 .u-list-1 {
     min-height: 637px;
-    grid-template-columns: repeat(2, calc(((100% - 720px) / 2)  + 349px));
+    grid-template-columns: calc(((100% - 720px) / 2) + 349px) calc(((100% - 720px) / 2) + 349px);
     margin-top: 22px;
     margin-right: initial;
     margin-left: initial;
