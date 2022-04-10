@@ -1,4 +1,4 @@
- .u-section-1 {
+.u-section-1 {
   background-image: url("images/IMG_5348.jpg");
   background-position: 50% 50%;
 }
@@ -70,7 +70,7 @@
     width: 340px;
     font-size: 1.5625rem;
   }
-} .u-section-2 {
+}.u-section-2 {
   background-image: none;
 }
 
@@ -259,7 +259,7 @@
     margin-top: 0;
     margin-left: -10px;
   }
-} .u-section-3 {
+}.u-section-3 {
   background-image: none;
 }
 
@@ -623,7 +623,7 @@
     font-weight: bold;
     font-size: 1.25rem;
   }
-} .u-section-4 {
+}.u-section-4 {
   background-image: none;
 }
 
@@ -684,7 +684,7 @@
     margin-top: 7px;
     margin-bottom: 20px;
   }
-} .u-section-5 {
+}.u-section-5 {
   background-image: none;
 }
 
@@ -1048,7 +1048,7 @@
     padding-left: 20px;
     padding-right: 20px;
   }
-} .u-section-6 {
+}.u-section-6 {
   background-image: none;
 }
 
