@@ -43,7 +43,7 @@
 }
 
 .u-section-2 .u-sheet-1 {
-  min-height: 1194px;
+  min-height: 928px;
 }
 
 .u-section-2 .u-text-1 {
@@ -61,11 +61,11 @@
 
 .u-section-2 .u-layout-wrap-1 {
   width: 1034px;
-  margin: 58px auto 0 0;
+  margin: 32px auto 0 0;
 }
 
 .u-section-2 .u-layout-cell-1 {
-  min-height: 360px;
+  min-height: 546px;
 }
 
 .u-section-2 .u-container-layout-1 {
@@ -80,18 +80,18 @@
 }
 
 .u-section-2 .u-layout-cell-2 {
-  min-height: 826px;
+  min-height: 546px;
 }
 
 .u-section-2 .u-container-layout-2 {
-  padding: 322px 0 30px;
+  padding: 168px 0 30px;
 }
 
 .u-section-2 .u-text-2 {
   animation-duration: 1000ms;
   font-size: 2.25rem;
   font-family: Georgia, serif;
-  margin: 72px 50px 0;
+  margin: 1px 50px 0;
 }
 
 .u-section-2 .u-text-3 {
@@ -102,13 +102,13 @@
 .u-section-2 .u-image-1 {
   width: 401px;
   height: 236px;
-  margin: 51px auto 0 86px;
+  margin: 0 106px 0 auto;
 }
 
 .u-section-2 .u-image-2 {
   width: 401px;
   height: 236px;
-  margin: -236px 86px 60px auto;
+  margin: -236px auto 60px 86px;
 }
 
 @media (max-width: 1199px) {
@@ -125,11 +125,11 @@
   }
 
   .u-section-2 .u-layout-cell-1 {
-    min-height: 327px;
+    min-height: 496px;
   }
 
   .u-section-2 .u-layout-cell-2 {
-    min-height: 751px;
+    min-height: 496px;
   }
 
   .u-section-2 .u-text-2 {
@@ -157,7 +157,7 @@
   }
 
   .u-section-2 .u-layout-cell-1 {
-    min-height: 250px;
+    min-height: 380px;
   }
 
   .u-section-2 .u-layout-cell-2 {
@@ -190,7 +190,7 @@
   }
 
   .u-section-2 .u-layout-cell-1 {
-    min-height: 2250px;
+    min-height: 3420px;
   }
 
   .u-section-2 .u-container-layout-1 {
@@ -224,7 +224,7 @@
   }
 
   .u-section-2 .u-layout-cell-1 {
-    min-height: 1417px;
+    min-height: 2153px;
   }
 
   .u-section-2 .u-layout-cell-2 {
@@ -241,7 +241,7 @@
 
   .u-section-2 .u-image-1 {
     height: 200px;
-    margin-top: 237px;
+    margin-top: 17px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
@@ -249,7 +249,7 @@
 
   .u-section-2 .u-image-2 {
     height: 200px;
-    margin-top: -420px;
+    margin-top: 20px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
@@ -306,7 +306,7 @@
   border-style: solid;
   font-weight: 700;
   font-size: 1.25rem;
-  margin: 137px auto 0;
+  margin: 116px auto 0;
 }
 
 .u-section-3 .u-image-1 {
