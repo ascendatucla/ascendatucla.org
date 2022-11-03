@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("images/IMG_5350.jpg");
+  background-image: url("images/image3.png");
   background-position: 50% 50%;
 }
 
@@ -16,10 +16,6 @@
   .u-section-1 .u-sheet-1 {
     min-height: 396px;
   }
-
-  .u-section-1 .u-text-1 {
-    margin-top: 60px;
-  }
 }
 
 @media (max-width: 991px) {
@@ -30,13 +26,13 @@
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 227px;
+    min-height: 207px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 143px;
+    min-height: 74px;
   }
 } .u-section-2 {
   background-image: none;
