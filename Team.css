@@ -67,16 +67,17 @@
 }
 
 .u-section-3 .u-icon-1 {
-  height: 182px;
-  width: 182px;
+  height: 278px;
+  width: 186px;
   box-shadow: 2px 2px 8px 0 rgba(128,128,128,1);
-  margin: 0 auto;
+  margin: 0 62px 0 auto;
+  padding: 0;
 }
 
 .u-section-3 .u-text-1 {
   font-weight: bold;
   font-size: 1.25rem;
-  margin: 18px 0 0;
+  margin: 12px 0 0;
 }
 
 .u-section-3 .u-text-2 {
@@ -91,16 +92,17 @@
 }
 
 .u-section-3 .u-icon-2 {
-  height: 182px;
-  width: 182px;
+  height: 278px;
+  width: 186px;
   box-shadow: 2px 2px 8px 0 rgba(128,128,128,1);
-  margin: 0 auto;
+  margin: 0 62px 0 auto;
+  padding: 0;
 }
 
 .u-section-3 .u-text-3 {
   font-weight: bold;
   font-size: 1.25rem;
-  margin: 18px 0 0;
+  margin: 12px 0 0;
 }
 
 .u-section-3 .u-text-4 {
@@ -115,67 +117,20 @@
 }
 
 .u-section-3 .u-icon-3 {
-  height: 182px;
-  width: 182px;
+  height: 278px;
+  width: 186px;
   box-shadow: 2px 2px 8px 0 rgba(128,128,128,1);
-  margin: 0 auto;
+  margin: 0 62px 0 auto;
+  padding: 0;
 }
 
 .u-section-3 .u-text-5 {
   font-weight: bold;
   font-size: 1.25rem;
-  margin: 18px 0 0;
+  margin: 12px 0 0;
 }
 
 .u-section-3 .u-text-6 {
-  font-size: 1.25rem;
-  line-height: 1.2;
-  letter-spacing: 0px;
-  margin: 8px 0 0;
-}
-
-.u-section-3 .u-container-layout-4 {
-  padding: 30px;
-}
-
-.u-section-3 .u-icon-4 {
-  height: 273px;
-  width: 182px;
-  box-shadow: 2px 2px 8px 0 rgba(128,128,128,1);
-  margin: 0 auto;
-}
-
-.u-section-3 .u-text-7 {
-  font-weight: bold;
-  font-size: 1.25rem;
-  margin: 18px 0 0;
-}
-
-.u-section-3 .u-text-8 {
-  font-size: 1.25rem;
-  line-height: 1.2;
-  letter-spacing: 0px;
-  margin: 8px 0 0;
-}
-
-.u-section-3 .u-container-layout-5 {
-  padding: 30px;
-}
-
-.u-section-3 .u-icon-5 {
-  height: 273px;
-  width: 182px;
-  box-shadow: 2px 2px 8px 0 rgba(128,128,128,1);
-  margin: 0 auto;
-}
-
-.u-section-3 .u-text-9 {
-  font-weight: bold;
-  font-size: 1.25rem;
-  margin: 18px 0 0;
-}
-
-.u-section-3 .u-text-10 {
   font-size: 1.25rem;
   line-height: 1.2;
   letter-spacing: 0px;
@@ -189,7 +144,19 @@
   }
 
   .u-section-3 .u-repeater-1 {
-    min-height: 302px;
+    min-height: 301px;
+  }
+
+  .u-section-3 .u-icon-1 {
+    height: 279px;
+  }
+
+  .u-section-3 .u-icon-2 {
+    height: 279px;
+  }
+
+  .u-section-3 .u-icon-3 {
+    height: 279px;
   }
 }
 
@@ -197,7 +164,7 @@
   .u-section-3 .u-repeater-1 {
     grid-template-columns: 33.3333% 33.3333% 33.3333%;
     grid-gap: 0px 0px;
-    min-height: 347px;
+    min-height: 707px;
   }
 
   .u-section-3 .u-text-1 {
@@ -228,28 +195,6 @@
   }
 
   .u-section-3 .u-text-6 {
-    width: auto;
-    margin-right: -45px;
-    margin-left: -61px;
-  }
-
-  .u-section-3 .u-text-7 {
-    margin-left: -61px;
-    margin-right: -61px;
-  }
-
-  .u-section-3 .u-text-8 {
-    width: auto;
-    margin-right: -45px;
-    margin-left: -61px;
-  }
-
-  .u-section-3 .u-text-9 {
-    margin-left: -61px;
-    margin-right: -61px;
-  }
-
-  .u-section-3 .u-text-10 {
     width: auto;
     margin-right: -45px;
     margin-left: -61px;
@@ -307,36 +252,6 @@
   }
 
   .u-section-3 .u-text-6 {
-    margin-left: -142px;
-    margin-right: -142px;
-  }
-
-  .u-section-3 .u-container-layout-4 {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-
-  .u-section-3 .u-text-7 {
-    margin-left: -142px;
-    margin-right: -142px;
-  }
-
-  .u-section-3 .u-text-8 {
-    margin-left: -142px;
-    margin-right: -142px;
-  }
-
-  .u-section-3 .u-container-layout-5 {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-
-  .u-section-3 .u-text-9 {
-    margin-left: -142px;
-    margin-right: -142px;
-  }
-
-  .u-section-3 .u-text-10 {
     margin-left: -142px;
     margin-right: -142px;
   }
@@ -400,44 +315,6 @@
   }
 
   .u-section-3 .u-text-6 {
-    font-size: 0.875rem;
-    margin-left: -85px;
-    margin-right: -85px;
-  }
-
-  .u-section-3 .u-icon-4 {
-    height: 142px;
-    width: 142px;
-    margin-top: 40px;
-    margin-right: 2px;
-  }
-
-  .u-section-3 .u-text-7 {
-    font-size: 0.875rem;
-    margin-left: -85px;
-    margin-right: -85px;
-  }
-
-  .u-section-3 .u-text-8 {
-    font-size: 0.875rem;
-    margin-left: -85px;
-    margin-right: -85px;
-  }
-
-  .u-section-3 .u-icon-5 {
-    height: 142px;
-    width: 142px;
-    margin-top: 40px;
-    margin-right: 2px;
-  }
-
-  .u-section-3 .u-text-9 {
-    font-size: 0.875rem;
-    margin-left: -85px;
-    margin-right: -85px;
-  }
-
-  .u-section-3 .u-text-10 {
     font-size: 0.875rem;
     margin-left: -85px;
     margin-right: -85px;
