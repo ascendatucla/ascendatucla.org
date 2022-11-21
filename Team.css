@@ -1213,19 +1213,13 @@
 
 .u-section-8 .u-text-1 {
   font-weight: 900;
-  margin: 0 20px 1px;
+  margin: 1px 20px;
 }
 
 @media (max-width: 1199px) {
   .u-section-8 .u-text-1 {
     margin-left: 0;
     margin-right: 0;
-  }
-}
-
-@media (max-width: 767px) {
-  .u-section-8 .u-text-1 {
-    margin-bottom: 60px;
   }
 } .u-section-9 {
   background-image: none;
